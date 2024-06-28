@@ -1,2 +1,2 @@
 # music-player
-This C music player handles audio playback and playlist management using structures doubly-linked list. It supports various media formats and provides basic controls such as play, pause, and navigation through songs.
+This C program is a feature-rich music player that supports audio playback and playlist management. Utilizing structures like for storing song details and a doubly-linked list for playlist navigation, the player handles operations such as adding, deleting, and moving through songs efficiently. It employs libraries for playing various audio formats, ensuring broad media compatibility. The player features a straightforward console-based interface that allows users to play, pause, stop, and navigate through songs. 
